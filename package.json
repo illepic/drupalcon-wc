@@ -24,5 +24,6 @@
   "dependencies": {
     "@stencil/core": "^2.0.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git://github.com/illepic/drupalcon-wc.git"
 }
